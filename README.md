@@ -37,7 +37,7 @@ I build full-stack applications that help businesses streamline operations, conn
 
 ### Choux Lab - Bakery store website [Ongoing Revamp]
 
-- [chouxlab.cat](https://www.chouxlab.ca/) - Marketing and e-commerce website for an artisan bakery and coffee shop.
+- [chouxlab.ca](https://www.chouxlab.ca/) - Marketing and e-commerce website for an artisan bakery and coffee shop.
 
 - Rebuilding the existing website with React, TypeScript, and Node.js to improve maintainability, flexibility, and scalability.
 
